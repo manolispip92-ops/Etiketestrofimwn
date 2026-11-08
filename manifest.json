@@ -1,12 +1,1 @@
-{
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "manolispip92-ops.github.io",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "Ανάλυση Ετικέτας Τροφίμων",
-  "start_url": "/",
-  "theme_color": "#ffffff",
-  "id": "Food Label Analysis"
-}
+
